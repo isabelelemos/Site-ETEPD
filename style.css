@@ -1,0 +1,25 @@
+body{
+    font-family: 'Viga', sans-serif;
+}
+.sobre-nos{
+    background-color: #13182c;
+    margin: 0;
+    padding: 40px;
+    height: 450px;
+    
+}
+h2{
+    font-family: 'Viga', sans-serif;
+    
+    color: #13182c
+}
+p{
+    font-family: 'Viga', sans-serif;
+}
+.opcao:hover{
+    color: #3791ff;
+}
+h3{
+    font-size: 20px;
+    padding: 20px;
+}
