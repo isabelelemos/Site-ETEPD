@@ -8,6 +8,14 @@ body{
     
     
 }
+#oportunidades{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+h5:hover #oportunidades{
+    color: #3791ff;
+    transform: scale(0.9);
+}
 a:hover {
     transform: scale(0.95);
     border: 1px solid #28a745;
