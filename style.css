@@ -1,5 +1,6 @@
 body{
     font-family: 'Viga', sans-serif;
+    font-size: 19px;
 }
 .sobre-nos{
     background-color: #13182c;
@@ -23,7 +24,7 @@ a:hover {
 }
 h2{
     font-family: 'Viga', sans-serif;
-    
+    font-size: 30px;
     color: #13182c
 }
 p{
