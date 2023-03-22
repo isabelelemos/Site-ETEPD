@@ -10,8 +10,8 @@ body{
     
 }
 #oportunidades{
-    border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
 }
 h5:hover #oportunidades{
     color: #3791ff;
